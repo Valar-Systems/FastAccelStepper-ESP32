@@ -1,4 +1,5 @@
-# FastAccelStepper 
+# FastAccelStepper for ESP-IDF
+ This is an Arduino to ESP-IDF port of the FastAccelStepper library
  
 ![Run tests](https://github.com/gin66/FastAccelStepper/workflows/Run%20tests/badge.svg?no_cache_0.23.3)
 ![Simvar tests](https://github.com/gin66/FastAccelStepper/workflows/Run%20tests%20with%20simavr/badge.svg?no_cache_0.23.3)
